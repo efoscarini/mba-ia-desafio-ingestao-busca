@@ -50,7 +50,7 @@ pip install -r requirements.txt
 docker compose up -d
 ```
 
-Aguarde o container ficar saudavel (o bootstrap criara a extensao `vector` automaticamente).
+Aguarde o container ficar healthy (o bootstrap criara a extensao `vector` automaticamente).
 
 ### 2. Executar a ingestao do PDF
 
